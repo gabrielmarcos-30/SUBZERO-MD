@@ -13,9 +13,9 @@ DATABASE_URL: process.env.DATABASE_URL || '',
 /* ================= BOT IDENTITY ================= */
 
 botName: process.env.BOT_NAME || 'SUBZERO-MD',
-botOwner: process.env.BOT_OWNER || 'Darrell M',
-ownerNumber: process.env.OWNER_NUMBER || '263719647303',
-author: process.env.AUTHOR || 'Mr Frank OFC',
+botOwner: process.env.BOT_OWNER || 'Ribery',
+ownerNumber: process.env.OWNER_NUMBER || '244959682026',
+author: process.env.AUTHOR || 'Ribery bot man ',
 packname: process.env.PACKNAME || 'SUBZERO-MD',
 description: process.env.DESCRIPTION || 'Multi-device WhatsApp bot',
 
